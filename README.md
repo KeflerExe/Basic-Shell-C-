@@ -8,6 +8,9 @@
 
 This repository houses a C++ program aimed at recreating a basic Linux shell. Designed to mimic the functionalities of a typical shell environment, this project offers a fundamental command-line interface where users can execute commands, navigate directories, and perform various system operations.
 
+It serves as an educational tool and a robust foundation for constructing more intricate shell environments.
+Feel free to customize this project according to your preferences.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 

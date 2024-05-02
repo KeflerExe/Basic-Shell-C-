@@ -66,9 +66,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Joel Óscar - Kefler7722@gmail.com
-
-Project Link: [https://github.com/KeflerExe/Basic-Shell-C-]
+Joel Óscar - josc.margut@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
